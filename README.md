@@ -22,6 +22,7 @@ Color clicker es un juego <b>en desarrollo</b> bastante simple. La idea es la si
 La idea es que haya distintos niveles de dificultad, aunque actualmente solo haya un nivel.
 <br>
 Aquí algunas imagenes para visualizar.
+<br>
 <p>Imagen 1: antes de empezar el juego. Aún no se ha seleccionado la paleta de colores.</p>
 <img src="./img/ColorClicker1.png">
 <p>Imagen 2: se presionó el boton start y se seleccionaron los colores. Como el puntaje marca 0 aún no se empezó a jugar.</p>
